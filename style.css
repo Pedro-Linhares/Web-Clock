@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+section{
+    background-color: #ffff;
+    border-radius: 5pt;
+    margin: auto;
+    padding: 20pt;
+    height: 300pt;
+    width: 400pt;
+    box-shadow: 5pt 5pt 10pt rgba(0, 0, 0, 0.5);
+}
+#text-field{
+    font-weight: bold;
+    font-size: 25pt;
+
+}
+#image-field{
+    margin: 30pt;
+    padding: 10pt;
+}
