@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    color: white;
 }
 section{
     background-color: #ffff;
@@ -9,6 +10,7 @@ section{
     height: 300pt;
     width: 400pt;
     box-shadow: 5pt 5pt 10pt rgba(0, 0, 0, 0.5);
+    color: black;
 }
 #text-field{
     font-weight: bold;
@@ -18,4 +20,7 @@ section{
 #image-field{
     margin: 30pt;
     padding: 10pt;
+}
+footer{
+    font-size: small;
 }
